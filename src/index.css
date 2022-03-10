@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@0,100;0,300;0,400;0,500;0,700;1,100;1,300;1,400&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+#root {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.textgrey {
+    color: #212529;
+}
+
+main{
+    flex: 1 0 auto;
+}
+.textdark {
+    color: #535157;
+
+}
+.textpurple {
+    color: #5F5173;
+}
+.semibold {
+    font-weight: 500;
+}
+body {
+    font-family: 'Alegreya Sans';
+    font-style: normal;
+    font-weight: normal;
+    background: #FCFAFF;
+    height: 100%;
+    min-height: 100vh;
+    font-size: 18px;
+}
+
+
+.bgdHome {
+    background: url("./assets/Images/HomePage2.png") no-repeat;
+    min-height: 100vh;
+
+}
+.cardInfo {
+    background: rgba(191, 153, 160, 0.18);
+    border-radius: 6px;
+    padding: 2%;
+    margin: 1%;
+}
+@media only screen and (max-width: 1400px) {
+    .cardHome {
+        background: rgba(252, 250, 255, 0.81);
+        padding: 3%;
+        border-radius: 10px;
+    }
+    .bgdHome {
+        height: auto;
+    }
+
+
+}
+.titleHome {
+    color: #5F5173;
+    font-style: italic;
+    font-weight: bold;
+}
+img {
+    max-width: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+#link{
+    color: #BF99A0 !important;
+    font-weight: bold;
+}
+#link:hover {
+    text-decoration: underline !important;
+
+}
+.btnHome {
+    background-color: #FCFAFF;
+    text-transform: uppercase;
+    font-size: 20px;
+    color: #5F5173;
+    border: 1px solid #5F5173;
+    border-radius: 10px;
+}
+.subtitleBold {
+    font-size: 18px;
+    font-weight: bold;
+    color: dimgray;
+    text-transform: uppercase;
+}
+.citHome {
+    font-size: 24px;
+    font-weight: lighter;
+}
+.price {
+    font-size: 20px;
+}
+a:hover {
+    text-decoration: none;
+    color: floralwhite ;
+}
+
+.btnPrice {
+    box-shadow: 0px 4px 20px rgba(95, 81, 115, 0.29);
+    background: #5F5173;
+    border: 1px solid #5F5173;
+    box-sizing: border-box;
+    border-radius: 10px;
+    color: #FCFAFF;
+    text-transform: uppercase;
+}
+.btnPrice:hover {
+    background-color: #FCFAFF;
+    color: #5F5173;
+}
+
+.table {
+    color: #5F5173;
+}
+
+.btnreverse {
+    box-shadow: 0px 4px 20px rgba(95, 81, 115, 0.29);
+    background-color: #BF99A0;
+    box-sizing: border-box;
+    color: #FCFAFF;
+    text-decoration: underline;
+    font-size: 18px;
+
+}
+.btnreverse:hover {
+    box-shadow: none;
+    background-color: #FCFAFF;
+    color: #5F5173;
+    border: 1px solid #5F5173;
+
+}
+
+.back::before {
+    content: url("assets/Images/back2.svg");
+    height: 30px;
+    margin-right: 10px;
+}
+
+#turnback {
+    color: #5F5173;
+    font-size: 20px;
+}
+
+#turnback:hover {
+    color: #5F5173;
+    text-decoration: underline;
+}

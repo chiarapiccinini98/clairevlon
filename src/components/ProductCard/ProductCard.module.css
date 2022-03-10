@@ -1,0 +1,28 @@
+.titleCard {
+    color: #5F5173;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 26px !important;
+
+}
+
+.subtitleCard {
+    color: dimgray;
+    text-transform: uppercase;
+    font-size: 18px;
+}
+.price {
+    color: #535157;
+    font-size: 20px;
+}
+.borderCard {
+
+    box-shadow: 0px 4px 20px rgba(95, 81, 115, 0.29);
+    border-radius: 10px;
+}
+
+.borderCard:hover {
+    box-shadow: 0px 5px 70px rgba(95, 81, 115, 0.29);
+    border-radius: 10px;
+    border: 4px #5F5173;
+}
