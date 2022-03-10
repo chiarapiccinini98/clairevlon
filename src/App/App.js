@@ -29,7 +29,7 @@ function App() {
 
 
     return (
-        <BrowserRouter>
+        <BrowserRouter basename="clairevlon">
             <MainTemplate
                 footerCourseName="Tecnologie e Applicazioni dnei sistemi distribuiti"
                 footerCourseLink="https://elearning.unimib.it/course/view.php?id=37789"
