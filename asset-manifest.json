@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/clairevlon/static/css/main.ac0aee72.chunk.css",
+    "main.js": "/clairevlon/static/js/main.1473b03b.chunk.js",
+    "main.js.map": "/clairevlon/static/js/main.1473b03b.chunk.js.map",
+    "runtime-main.js": "/clairevlon/static/js/runtime-main.a709bc25.js",
+    "runtime-main.js.map": "/clairevlon/static/js/runtime-main.a709bc25.js.map",
+    "static/css/2.383c0125.chunk.css": "/clairevlon/static/css/2.383c0125.chunk.css",
+    "static/js/2.bf316222.chunk.js": "/clairevlon/static/js/2.bf316222.chunk.js",
+    "static/js/2.bf316222.chunk.js.map": "/clairevlon/static/js/2.bf316222.chunk.js.map",
+    "static/js/3.9135fad3.chunk.js": "/clairevlon/static/js/3.9135fad3.chunk.js",
+    "static/js/3.9135fad3.chunk.js.map": "/clairevlon/static/js/3.9135fad3.chunk.js.map",
+    "index.html": "/clairevlon/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/clairevlon/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.ac0aee72.chunk.css.map": "/clairevlon/static/css/main.ac0aee72.chunk.css.map",
+    "static/js/2.bf316222.chunk.js.LICENSE.txt": "/clairevlon/static/js/2.bf316222.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/clairevlon/static/media/back2.6041d144.svg",
+    "static/media/disco.4d979555.png": "/clairevlon/static/media/disco.4d979555.png",
+    "static/media/logo.dfe4dc96.svg": "/clairevlon/static/media/logo.dfe4dc96.svg",
+    "static/media/screenCartelle.8490de85.png": "/clairevlon/static/media/screenCartelle.8490de85.png",
+    "static/media/screencomponenti.f59a92b6.png": "/clairevlon/static/media/screencomponenti.f59a92b6.png",
+    "static/media/unimib.89c26fae.jpeg": "/clairevlon/static/media/unimib.89c26fae.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a709bc25.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.bf316222.chunk.js",
+    "static/css/main.ac0aee72.chunk.css",
+    "static/js/main.1473b03b.chunk.js"
+  ]
+}
