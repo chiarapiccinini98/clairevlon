@@ -74,9 +74,10 @@ const MakeupDetail = (props) => {
                     id={"turnback"}
                     className="back"
                 >
-                    All product
+                    All products
                 </Link>
             </div>
+           
 
 
 
